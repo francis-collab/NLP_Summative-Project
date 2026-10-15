@@ -1,0 +1,40 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+env/
+venv/
+.venv/
+.venv310/
+.venv311/
+mltechII-env/
+*.egg-info/
+dist/
+build/
+
+# Jupyter
+.ipynb_checkpoints/
+*/.ipynb_checkpoints/
+
+# Model / data caches (keep the final saved model)
+data/
+*.bin
+*.pt
+*.pth
+*.safetensors
+# but keep the joblib model we ship
+!models/kiswahili_news_classifier_svm/
+
+# OS / IDE
+.DS_Store
+.idea/
+.vscode/
+*.swp
+*.code-workspace
+
+# Gradio / Streamlit / temp
+flagged/
+gradio_cached_examples/
+.streamlit/
