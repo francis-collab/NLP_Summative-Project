@@ -99,7 +99,6 @@ NLP_Summative-Project/
 │       └── label_names.json
 ├── app/                             # Optional Gradio version
 ├── src/utils.py
-├── report/                          # Academic report materials
 └── README.md
 ```
 
