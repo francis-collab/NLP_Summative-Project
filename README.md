@@ -123,7 +123,7 @@ Open the notebook on Kaggle, Colab, or locally. It is fully executed and contain
 
 - **GitHub Repository**: https://github.com/francis-collab/NLP_Summative-Project
 - **Live System**: https://kiswahili-news-classifier.streamlit.app/
-- **Demo Video**: *[insert your video link]*
+- **Demo Video**: https://youtu.be/P6nmpaGsTRM?si=fweJnuJ9cJqbevhK
 
 ---
 
